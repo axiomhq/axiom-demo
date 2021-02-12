@@ -1,7 +1,13 @@
 # axiom-demo [![Build](https://github.com/axiomhq/axiom-demo/workflows/Build/badge.svg)](https://github.com/axiomhq/axiom-demo/actions?query=workflow%3ABuild)
 
-Axiom is a logs managment solution that allows you to store, visualize and stream
-massive amounts of data from all your apps and services.
+Axiom is a logs managment solution that allows you to store, visualize and
+stream massive amounts of data from all your apps and services.
+
+This repo contains a ready-to-go demo to try Axiom locally. It will set up
+an Axiom instance, Postgresql, Minio plus some containers for ingestion.
+The directories in this repository contain configurations for Dashboards, 
+Monitors and ingestion containers.
+
 
 ### Screenshots:
 
@@ -14,11 +20,6 @@ massive amounts of data from all your apps and services.
 **Tail on log-synth**:
 ![tail](data/tail.png)
 
-
-This repo contains a ready-to-go demo to try Axiom locally. It will set up
-an Axiom instance, Postgresql, Minio plus some containers for ingestion.
-The directories in this repository contain configurations for Dashboards, 
-Monitors and ingestion containers.
 
 ## Get started
 
