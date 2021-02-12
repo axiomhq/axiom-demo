@@ -1,6 +1,6 @@
 # axiom-demo [![Build](https://github.com/axiomhq/axiom-demo/workflows/Build/badge.svg)](https://github.com/axiomhq/axiom-demo/actions?query=workflow%3ABuild)
 
-Axiom is a logs managment solution that allows you to store, visualize and
+Axiom is a logs management solution that allows you to store, visualize and
 stream massive amounts of data from all your apps and services.
 
 This repo contains a ready-to-go demo to try Axiom locally. It will set up
