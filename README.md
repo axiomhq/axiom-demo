@@ -8,6 +8,7 @@ an Axiom instance, Postgresql, Minio plus some containers for ingestion.
 The directories in this repository contain configurations for Dashboards, 
 Monitors and ingestion containers.
 
+[There is also a hosted playground](https://play.axiom.co/) with log-synth, github and hackernews data.
 
 ### Screenshots:
 
