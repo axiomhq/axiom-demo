@@ -10,7 +10,14 @@ Monitors and ingestion containers.
 
 [There is also a hosted playground](https://play.axiom.co/) with log-synth, github and hackernews data.
 
-### Screenshots:
+## Table of Contents
+
+1. [Screenshots](#screenshots)
+1. [Get started](#get-started)
+1. [CLI](#cli)
+1. [Stopping the stack](#stopping-the-stack)
+
+## Screenshots:
 
 **Analytics on log-synth**:
 ![http](data/http.png)
